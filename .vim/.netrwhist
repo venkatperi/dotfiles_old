@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/usr/local/Cellar/hadoop/1.1.2/libexec/logs/userlogs/job_201307191139_0002'
+let g:netrw_dirhist_2='/usr/local/apache-tomcat-7.0.42/webapps/eureka-server/WEB-INF'
+let g:netrw_dirhist_3='/Users/venkat/proj/repos/jettyBuilder/src/main/groovy/com/maestro/groovy/builders/jettyBuilder'
